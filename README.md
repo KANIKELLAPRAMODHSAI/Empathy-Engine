@@ -1,5 +1,4 @@
 
-=======
 # 🎙️ Empathy Engine
 
 > **Emotionally expressive Text-to-Speech — because how something is said matters as much as what is said.**
