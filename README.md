@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Empathy-Engine
+
 =======
 # 🎙️ Empathy Engine
 
@@ -221,7 +220,3 @@ empathy-engine/
 
 ---
 
-## 📄 License
-
-MIT
->>>>>>> d2b1def (Initial commit)
